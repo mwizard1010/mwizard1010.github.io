@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mwizard1010.github.io
+Token: 6bd15ad4a6446d4f0f25ba7aac5d156d332828422cd740b49c03466d5ac100f4
